@@ -47,3 +47,7 @@ Similarly I have used other References according to type of news I want to see l
 
 ## Screenshot
 
+![Screenshot (12)](https://user-images.githubusercontent.com/109591830/190815942-70cb7593-a917-413f-8865-93b2cb8f93da.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/109591830/190816066-f062c690-7686-4b1c-ae1c-bb0d60f07c60.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/109591830/190816089-e011ecd5-7b10-4b9b-b232-5fa379c74fd0.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/109591830/190816110-7d2c3832-e714-4132-b517-f229e442fc9c.png)
